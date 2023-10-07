@@ -2,6 +2,7 @@ import React from 'react'
 import PostCreate from './PostCreate'
 import PostList from './PostList'
 
+
 function App() {
   return (
     <div className='container mt-4'>
